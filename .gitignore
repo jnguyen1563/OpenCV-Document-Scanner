@@ -1,0 +1,12 @@
+#### Testing Images ####
+*.jpg
+
+#### Python generated files ####
+__pycache__
+*.pyc
+
+#### VSCode generated files ####
+.vscode
+
+#### Testing file ####
+test.py
